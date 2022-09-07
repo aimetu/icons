@@ -1,1 +1,1 @@
-自用图标组，*[复制](https://raw.githubusercontent.com/aimetu/icons/main/Icons.json)*订阅添加。
+自用图标组，点击[打开订阅](https://raw.githubusercontent.com/aimetu/icons/main/Icons.json)并添加。
