@@ -1,6 +1,6 @@
 ##### 🗨️ 自用图标组，订阅链接
 ```
-https://raw.githubusercontent.com/aimetu/icons/main/Icons.json
+https://raw.githubusercontent.com/aimetu/icons/main/icons.json
 ```
 ##### 🗺️ map图标库示例链接
 ```
@@ -12,5 +12,5 @@ https://raw.githubusercontent.com/aimetu/icons/main/logo/xxxxx.png
 ```
 ##### 💡 mini图标库示例链接
 ```
-https://raw.githubusercontent.com/aimetu/icons/main/xxxxx.png
+https://raw.githubusercontent.com/aimetu/icons/main/other/xxxxx.png
 ```
