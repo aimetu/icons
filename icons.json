@@ -48,11 +48,13 @@
   {"name":"wechat", "url":"https://raw.githubusercontent.com/aimetu/icons/main/logo/wechat.png"},
   {"name":"weibo", "url":"https://raw.githubusercontent.com/aimetu/icons/main/logo/weibo.png"}, 
   {"name":"youtube", "url":"https://raw.githubusercontent.com/aimetu/icons/main/logo/youtube.png"},
-  {"name":"youtubelogo", "url":"https://raw.githubusercontent.com/aimetu/icons/main/logo/youtubelogo.png"}, 
+  {"name":"youtubelogo", "url":"https://raw.githubusercontent.com/aimetu/icons/main/logo/youtubelogo.png"},
+  {"name":"xmly", "url":"https://raw.githubusercontent.com/aimetu/icons/main/logo/xmly.png"}, 
   {"name":"zaker", "url":"https://raw.githubusercontent.com/aimetu/icons/main/logo/zaker.png"},
- 
+  
   {"name":"pokemon", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/pokemon.png"}, 
   {"name":"10010", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/10010.png"}, 
+  {"name":"one", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/one.png"}, 
   {"name":"adblock", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/adblock.png"}, 
   {"name":"auto", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/auto.png"}, 
   {"name":"balloon", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/balloon.png"}, 
