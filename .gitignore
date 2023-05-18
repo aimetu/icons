@@ -1,4 +1,5 @@
 /logo
 /map
 /other
-*.md
+/*.json
+*.json
