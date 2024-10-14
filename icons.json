@@ -218,4 +218,17 @@
   {"name":"wifi", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/wifi.png"},   
   {"name":"wireless", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/wireless.png"},
   {"name":"round", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/round.png"},
-  {"name":"router", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/router.png"}]} 
+  {"name":"sql", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/sql.png"},
+  {"name":"pivot", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/pivot.png"},
+  {"name":"nas", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/nas.png"},
+  {"name":"cd", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/cd.png"},
+  {"name":"netdrive", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/netdrive.png"},
+  {"name":"virtual", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/virtual.png"},
+  {"name":"camera", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/camera.png"},
+  {"name":"graph", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/graph.png"},
+  {"name":"venn", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/venn.png"},
+  {"name":"4g", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/4g.png"},
+  {"name":"5g", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/5g.png"},
+  {"name":"lte", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/lte.png"},
+  {"name":"router", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/router.png"},
+  {"name":"ota", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/ota.png"}]} 
