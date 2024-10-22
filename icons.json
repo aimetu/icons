@@ -40,7 +40,6 @@
   
   {"name":"apple", "url":"https://raw.githubusercontent.com/aimetu/icons/main/logo/apple.png"}, 
   {"name":"photos", "url":"https://raw.githubusercontent.com/aimetu/icons/main/logo/photos.png"}, 
-  {"name":"game", "url":"https://raw.githubusercontent.com/aimetu/icons/main/logo/game.png"}, 
   {"name":"amazon", "url":"https://raw.githubusercontent.com/aimetu/icons/main/logo/amazon.png"}, 
   {"name":"appstore", "url":"https://raw.githubusercontent.com/aimetu/icons/main/logo/appstore.png"}, 
   {"name":"baidu", "url":"https://raw.githubusercontent.com/aimetu/icons/main/logo/baidu.png"},
@@ -171,6 +170,7 @@
   {"name":"auto", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/auto.png"},
   {"name":"balloon", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/balloon.png"},
   {"name":"box", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/box.png"}, 
+  {"name":"game", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/game.png"}, 
   {"name":"caiyan", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/caiyun.png"},
   {"name":"sun", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/sun.png"},
   {"name":"star", "url":"https://raw.githubusercontent.com/aimetu/icons/main/other/star.png"},
